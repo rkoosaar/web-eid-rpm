@@ -85,6 +85,14 @@ fi
 %{_datadir}/icons/hicolor/*/apps/%{name}.png
 
 %changelog
+- update to v2.5.0 release Wed May 22 2024 Raiko Koosaar <koosaar@live.com>
+- update to v2.5.0 release (koosaar@live.com)
+- update to v2.5.0 release (koosaar@live.com)
+- update to v2.5.0 release (koosaar@live.com)
+- update to v2.5.0 release (33834842+rkoosaar@users.noreply.github.com)
+- update to v2.5.0 release (33834842+rkoosaar@users.noreply.github.com)
+- Update releasers.conf (33834842+rkoosaar@users.noreply.github.com)
+
 * Thu May 16 2024 Raiko Koosaar <rkoosaar@gmail.com> 2.5.0-1
 - update to v2.5.0 release (rkoosaar@gmail.com)
 
