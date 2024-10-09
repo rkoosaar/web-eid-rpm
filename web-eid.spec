@@ -85,6 +85,10 @@ fi
 %{_datadir}/icons/hicolor/*/apps/%{name}.png
 
 %changelog
+update to version 2.6.0
+* Wed Oct 09 2024 Raiko Koosaar <koosaar@live.com>
+- 
+
 * Wed Oct 09 2024 Raiko Koosaar <koosaar@live.com> 2.6.0-1
 - update to v2.6.0 release (koosaar@live.com)
 - License change (koosaar@live.com)
